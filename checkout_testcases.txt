@@ -1,0 +1,127 @@
+﻿Scenario : Checkout Flow for ecommerce
+
+
+Test Case No. 1 : 
+
+
+Step 1.  Choose any Product.
+Step 2.  Click on ADD to Cart button.
+Step 3.  Go to Cart Button. 
+Step 4.  Then Click on PLace Order.
+Step 5.  Fill all the details.
+Step 6.  Click on purchase.
+Step 7.  Then message should be displayed i.e Thank you for purchase.
+
+
+
+
+
+
+Test Case No. 2 : 
+
+
+Step 1.  Choose any Product.
+Step 2.  Click on ADD to Cart button.
+Step 3.  Go to Cart Button. 
+Step 4.  Then Click on PLace Order.
+Step 5.  Fill all the details.
+Step 6.  Click on purchase.
+Step 7.  Then unique ID must be Displayed.
+
+
+
+
+Test Case No. 3 : 
+
+
+Step 1.  Choose any Product.
+Step 2.  Click on ADD to Cart button.
+Step 3.  Go to Cart Button. 
+Step 4.  Then Click on PLace Order.
+Step 5.  Fill all the details.
+Step 6.  Click on purchase.
+Step 7.  Then product amount must be displayed.
+
+
+Test Case No. 4 : 
+
+
+Step 1.  Choose any Product.
+Step 2.  Click on ADD to Cart button.
+Step 3.  Go to Cart Button. 
+Step 4.  Then Click on PLace Order.
+Step 5.  Fill all the details.
+Step 6.  Click on purchase.
+Step 7.  Then Card Number must be displayed.
+
+
+
+
+Test Case No. 5 : 
+
+
+Step 1.  Choose any Product.
+Step 2.  Click on ADD to Cart button.
+Step 3.  Go to Cart Button. 
+Step 4.  Then Click on PLace Order.
+Step 5.  Fill all the details.
+Step 6.  Click on purchase.
+Step 7.  Then customer name should be displayed.
+
+
+
+
+Test Case No. 6 : 
+
+
+Step 1.  Choose any Product.
+Step 2.  Click on ADD to Cart button.
+Step 3.  Go to Cart Button. 
+Step 4.  Then Click on PLace Order.
+Step 5.  Fill all the details.
+Step 6.  Click on purchase.
+Step 7.  Then date of placing order should be displayed.
+
+
+
+
+
+
+Test Case No. 7 : 
+
+
+Step 1.  Choose any Product.
+Step 2.  Click on ADD to Cart button.
+Step 3.  Go to Cart Button. 
+Step 4.  Then Click on PLace Order.
+Step 5.  Fill all the details.
+Step 6.  Click on purchase.
+Step 7.  Then green Check sign should be displayed.
+
+
+
+
+Test Case No. 8 : 
+
+
+Step 1.  Choose any Product.
+Step 2.  Click on ADD to Cart button.
+Step 3.  Go to Cart Button. 
+Step 4.  Then Click on PLace Order.
+Step 5.  Fill all the details.
+Step 6.  Click on purchase.
+Step 7.  Then Ok button must be present.
+
+
+
+
+Test Case No. 9 : 
+
+
+Step 1.  Choose any Product.
+Step 2.  Click on ADD to Cart button.
+Step 3.  Go to Cart Button. 
+Step 4.  Then Click on PLace Order.
+Step 5.  Fill all the details.
+Step 6.  Click on purchase.
+Step 7.  Then message should be displayed i.e Thank you for purchase.
